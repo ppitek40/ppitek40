@@ -6,10 +6,14 @@ C#/.NET backend developer with 5 years of commercial experience, based in Pozna≈
 
 ## What I work with
 
-**Backend:** C#, .NET 8, ASP.NET Core, FastEndpoints, EF Core, NHibernate, Wolverine, Marten, Hangfire, SignalR, gRPC
-**Data:** PostgreSQL, SQL Server, MongoDB
-**Frontend:** Angular
-**Cloud & DevOps:** Docker, Azure (App Service, Functions, Key Vault), Azure DevOps Pipelines, Testcontainers
+**Backend:** C#, .NET 8, ASP.NET Core, FastEndpoints, EF Core, NHibernate, Wolverine, Marten, Hangfire, SignalR, gRPC  
+
+**Data:** PostgreSQL, SQL Server, MongoDB  
+
+**Frontend:** Angular  
+
+**Cloud & DevOps:** Docker, Azure (App Service, Functions, Key Vault), Azure DevOps Pipelines, Testcontainers  
+
 **Also:** Go, DDD, CQRS, clean architecture, architecture tests
 
 ## Projects
